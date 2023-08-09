@@ -6,7 +6,7 @@
     </a>
 </p
 
-Django dependency injection inspired by ASP.NET 
+Django dependency injection inspired by [ASP.NET](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection)
 
 ---
 
