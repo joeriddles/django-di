@@ -1,5 +1,11 @@
 # Django DI
 
+<p style="align: center">
+    <a href="https://pypi.org/project/django-di" target="_blank">
+        <img src="https://img.shields.io/pypi/v/django-di?label=PyPI" alt="Package version">
+    </a>
+</p
+
 Django dependency injection inspired by ASP.NET 
 
 ### Build
