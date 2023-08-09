@@ -2,7 +2,7 @@ from typing import Protocol
 
 import pytest
 
-from .context import DIContext
+from django_di.context import DIContext
 
 
 class ServiceProtocol(Protocol):
