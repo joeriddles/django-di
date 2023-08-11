@@ -33,3 +33,6 @@ class DIContext(Context):
         else:
             service = service_or_callable
         return service
+
+
+DI = DIContext()
