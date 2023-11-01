@@ -6,7 +6,13 @@
     </a>
 </p
 
-Django dependency injection inspired by [ASP.NET](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection)
+### What is django-di and why you need it
+
+django-di is a revolutionary tool designed to supercharge your Django app development. It harnesses the power of the dependency injection pattern, allowing you to manage complex dependencies and reduce tight coupling in your code with ease. No more spaghetti code or tangled dependencies - with django-di, you can focus on building clean, modular, and maintainable apps.
+
+### Benefits of using dependency injection in Django
+
+Dependency injection promotes loose coupling by externalizing dependencies. This means instead of hardcoding dependencies directly into your code, you define them externally, and django-di handles the rest. This decoupling improves overall code structure, organization, and facilitates easier maintenance, testing, and swapping out of components.
 
 ---
 
