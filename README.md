@@ -6,7 +6,7 @@
     </a>
 </p
 
-### What is django-di and why you need it
+<h3>What is django-di and why you need it</h3>
 
 django-di is a revolutionary tool designed to supercharge your Django app development. It harnesses the power of the dependency injection pattern, allowing you to manage complex dependencies and reduce tight coupling in your code with ease. No more spaghetti code or tangled dependencies - with django-di, you can focus on building clean, modular, and maintainable apps.
 
